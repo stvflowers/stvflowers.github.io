@@ -21,4 +21,10 @@ def what?
 end
 ~~~
 
+{% highlight ruby %}
+def foo
+  puts 'foo'
+end
+{% endhighlight ruby %}
+
 Test
