@@ -11,9 +11,11 @@ The easiest way to make your first post is to edit this one. Go into /_posts/ an
 
 
 {% highlight powershell linenos %}
-Get-Host
+  
+  Get-Host
 
-Test-NetConnection -computername localhost
+  Test-NetConnection -computername localhost
+  
 {% endhighlight powershell %}
 
 Test
