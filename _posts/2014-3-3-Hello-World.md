@@ -15,4 +15,10 @@ Get-Host
 Test-NetConnection -computername localhost
 ```
 
+~~~ ruby
+def what?
+  42
+end
+~~~
+
 Test
