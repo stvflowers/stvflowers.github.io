@@ -1,6 +1,8 @@
 ---
 layout: post
-title: IoT Central publish device error code
+title: Azure IoT Central publish device error code
+categories: azure iot central error
+date: 2020-06-17
 ---
 
 Error Code: 400.470.006.319
