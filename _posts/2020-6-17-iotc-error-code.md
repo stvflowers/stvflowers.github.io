@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IoT Central Error Code
+title: IoT Central publish device error code
 ---
 
 Error Code: 400.470.006.319
