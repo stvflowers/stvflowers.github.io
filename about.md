@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a Cloud Solutions Architect at Microsoft focusing in Data + AI.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+IT professional with experience in data center architecture, networking, DevOps, development, and the cloud.
+
+When not at the keyboard you can find me jumping out of airplanes.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+https://www.twitter.com/steveflowers
